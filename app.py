@@ -5,3 +5,4 @@ import membro3 as m3
 print(m1.hello())
 print(m2.hello())
 print(m3.hello())
+print(m4.hello())
