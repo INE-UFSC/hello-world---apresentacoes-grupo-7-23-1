@@ -1,2 +1,2 @@
 def hello():
-	return "Olá, eu sou o Gustavo Girotto. Tenho 19 anos, meus hobbies são jogar videogame. Fiz Ensino Técnico integrado ao ensino media, e espero nessa disciplina poder ampliar minhas habilidades de programaçao,
+	return "Olá, eu sou o Gustavo Girotto. Tenho 19 anos, meus hobbies são jogar videogame. Fiz Ensino Técnico integrado ao ensino media, e espero nessa disciplina poder ampliar minhas habilidades de programaçao"
